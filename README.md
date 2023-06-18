@@ -1,5 +1,6 @@
 # Spotify-Clone
 This is a Spotify Clone. I am still working on it. Only the frontend work is done. Backend is yet to be implemented.
 This is how it looks like rn. :)
-![image](https://github.com/yashicagarg50/Spotify-Clone/assets/97343839/79890d21-4538-4137-9be0-c30a6efa3b71)
-![image](https://github.com/yashicagarg50/Spotify-Clone/assets/97343839/5c769e17-f97e-4331-9c5c-27b32bcbcafe)
+![image](https://github.com/yashicagarg50/Spotify-Clone/assets/97343839/6f5c5d28-b322-48c9-a619-bbcc7e7a5c0c)
+![image](https://github.com/yashicagarg50/Spotify-Clone/assets/97343839/cf4563af-f526-4baa-8d54-17168df815d3)
+
