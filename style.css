@@ -383,3 +383,20 @@ a {
   color: white;
   text-decoration: none;
 }
+
+body::-webkit-scrollbar {
+  width: 15px;
+}
+body::-webkit-scrollbar-track {
+  background: rgb(25, 24, 24);
+}
+
+/* Handle */
+body::-webkit-scrollbar-thumb {
+  background: rgb(238, 233, 233);
+}
+
+/* Handle on hover */
+body::-webkit-scrollbar-track:hover::-webkit-scrollbar-thumb {
+  background-color: rgb(238, 233, 233);
+}
